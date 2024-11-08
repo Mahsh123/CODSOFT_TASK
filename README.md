@@ -26,4 +26,4 @@ This repository contains three Python projects designed for utility and producti
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mahsh123/Python-Projects
